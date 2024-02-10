@@ -1,0 +1,1 @@
+update registration set Name = 'GHIJ' where Reg_id = 3;
