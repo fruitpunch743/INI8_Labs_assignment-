@@ -1,0 +1,1 @@
+select * from Registration where Reg_id = 2;
