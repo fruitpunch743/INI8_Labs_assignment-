@@ -1,0 +1,1 @@
+delete from `registration` where Reg_id = 2;
